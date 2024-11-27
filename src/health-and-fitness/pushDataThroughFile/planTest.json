@@ -1,0 +1,38 @@
+[
+    {
+      "name": "5 Day Muscle Mass Split",
+      "goal": "Bulking",
+      "level": "Intermediate",
+      "muscle": "Back",
+      "equipment": "Barbell",
+      "days": 5,
+      "description": "The 5 Day Muscle Mass Split routine by JefitTeam is a 7 day workout plan. It is a intermediate level plan to achieve bulking fitness goals.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fc6809df063cf0f08%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Chest and Back",
+          "exercises": [
+            {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "6-Weeks to Six-Pack Abs",
+      "goal": "Cutting",
+      "level": "Intermediate",
+      "muscle": "Abs",
+      "equipment": "Machine strength",
+      "days": 2,
+      "description": "The 6-Weeks to Six-Pack Abs routine by JefitTeam is a 2 day workout plan. It is a intermediate level plan to achieve cutting fitness goals.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F35f01ee8568ae8ba%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Week 1 - 3",
+          "exercises": [
+            {"name": "Weighted Crunch", "muscle": "Abs", "sets": "3", "reps": "30", "restTime": "00:00"}
+          ]
+        }
+      ]
+    }
+]

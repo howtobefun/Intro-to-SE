@@ -1,0 +1,997 @@
+[
+    {
+      "name": "5 Days Muscle Mass Split",
+      "goal": "Bulking",
+      "level": "Intermediate",
+      "muscle": "Back",
+      "equipment": "Barbell",
+      "days": 5,
+      "description": "The 5 Day Muscle Mass Split routine by JefitTeam is a 7 day workout plan. It is a intermediate level plan to achieve bulking fitness goals.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fc6809df063cf0f08%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Chest and Back",
+          "exercises": [
+            {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+            {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+            {"name": "Dumbbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+            {"name": "Dumbbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+            {"name": "Pull-Up", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+            {"name": "Cable Lat Pulldown (Wide Grip)", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+            {"name": "Dumbbell One-Arm Row", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+            {"name": "Barbell Deadlift", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"}
+          ]
+        },
+        {},
+        {
+            "name": "Chest and Back",
+            "exercises": [
+              {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Pull-Up", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Cable Lat Pulldown (Wide Grip)", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm Row", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Deadlift", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"}
+            ]
+          },
+          {},
+          {
+            "name": "Chest and Back",
+            "exercises": [
+              {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Pull-Up", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Cable Lat Pulldown (Wide Grip)", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm Row", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Deadlift", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"}
+            ]
+          },
+        {
+            "name": "Week 1 - 3",
+            "exercises": [
+              {"name": "Weighted Crunch", "muscle": "Abs", "sets": "3", "reps": "30", "restTime": "00:00"},
+              {"name": "Barbell Ab Rollout (Kneeling)", "muscle": "Abs", "sets": "3", "reps": "20", "restTime": "00:00"},
+              {"name": "Hanging Leg Raise", "muscle": "Abs", "sets": "3", "reps": "25", "restTime": "00:00"},
+              {"name": "Decline Crunch", "muscle": "Abs", "sets": "3", "reps": "20", "restTime": "00:00"},
+              {"name": "Cable Kneeling Crunch", "muscle": "Abs", "sets": "3", "reps": "30", "restTime": "00:00"}
+            ]
+          },
+          {
+            "name": "Chest and Back",
+            "exercises": [
+              {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Pull-Up", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Cable Lat Pulldown (Wide Grip)", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm Row", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Deadlift", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"}
+            ]
+          }
+      ]
+    },
+    {
+      "name": "6-Weeks to Six-Pack Abs",
+      "goal": "Cutting",
+      "level": "Intermediate",
+      "muscle": "Abs",
+      "equipment": "Machine strength",
+      "days": 2,
+      "description": "The 6-Weeks to Six-Pack Abs routine by JefitTeam is a 2 day workout plan. It is a intermediate level plan to achieve cutting fitness goals.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F35f01ee8568ae8ba%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Week 1 - 3",
+          "exercises": [
+            {"name": "Weighted Crunch", "muscle": "Abs", "sets": "3", "reps": "30", "restTime": "00:00"},
+            {"name": "Barbell Ab Rollout (Kneeling)", "muscle": "Abs", "sets": "3", "reps": "20", "restTime": "00:00"},
+            {"name": "Hanging Leg Raise", "muscle": "Abs", "sets": "3", "reps": "25", "restTime": "00:00"},
+            {"name": "Decline Crunch", "muscle": "Abs", "sets": "3", "reps": "20", "restTime": "00:00"},
+            {"name": "Cable Kneeling Crunch", "muscle": "Abs", "sets": "3", "reps": "30", "restTime": "00:00"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "From Fat to Fit (3-Month Plan)",
+      "goal": "Cutting",
+      "level": "Advanced",
+      "muscle": "Abs",
+      "equipment": "Dumbbell",
+      "days": 7,
+      "description": "The From Fat to Fit (3-Month Plan) routine by JefitTeam is a 7 day workout plan. It is a advanced level plan to achieve cutting fitness goals.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fc2f58ad6f17797a3%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Legs and Abs",
+          "exercises": [
+            {"name": "Elliptical Training", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "10:00"},
+            {"name": "Bodyweight Lunge", "muscle": "Upper Legs", "sets": "3", "reps": "6", "restTime": "00:00"},
+            {"name": "Bodyweight Rear Lunge", "muscle": "Upper Legs", "sets": "3", "reps": "6", "restTime": "00:00"},
+            {"name": "Jump Squat", "muscle": "Upper Legs", "sets": "3", "reps": "8", "restTime": "00:00"},
+            {"name": "Bodyweight Calf Raise", "muscle": "Lower Legs", "sets": "3", "reps": "15", "restTime": "00:00"},
+            {"name": "Prisoner Squat", "muscle": "Upper Legs", "sets": "3", "reps": "12", "restTime": "00:00"},
+            {"name": "Crunch", "muscle": "Abs", "sets": "3", "reps": "15", "restTime": "00:00"},
+            {"name": "Cable Wood Chop", "muscle": "Abs", "sets": "3", "reps": "15", "restTime": "00:00"},
+            {"name": "Hanging Leg Raise", "muscle": "Abs", "sets": "2", "reps": "15", "restTime": "00:00"},
+            {"name": "Elliptical Training", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "10:00"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Full Body Home Workout: Dumbbell Only",
+      "goal": "Maintaining",
+      "level": "Beginner",
+      "muscle": "Back",
+      "equipment": "Dumbbell",
+      "days": 3,
+      "description": "The Full Body Home Workout: Dumbbell Only routine by JefitTeam is a 7 day workout plan. It is a beginner level plan to achieve general fitness goals.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fe064a74b7a254fd6%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Day 1",
+          "exercises": [
+            {"name": "Dumbbell Stiff-Leg Deadlift", "muscle": "Back", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Lunge", "muscle": "Upper Legs", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Bench Press", "muscle": "Chest", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Incline Bench Press", "muscle": "Chest", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell One-Arm Row", "muscle": "Back", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Alternating Bicep Curl", "muscle": "Biceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Incline Curl", "muscle": "Biceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Kickback", "muscle": "Triceps", "sets": "3", "reps": "10", "restTime": "00:00"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home Workout Plan for Women: 2 Weeks",
+      "goal": "Toning",
+      "level": "Beginner",
+      "muscle": "Full Body",
+      "equipment": "Bodyweight",
+      "days": 4,
+      "description": "This workout plan helps women to tone and shape their body using only bodyweight exercises. This routine involves 4 days of training per week.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Ff017495487b348b6%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Day 1",
+          "exercises": [
+            {"name": "Jumping Jacks", "muscle": "Full Body", "sets": "3", "reps": "30", "restTime": "00:00"},
+            {"name": "Bodyweight Squat", "muscle": "Lower Body", "sets": "3", "reps": "20", "restTime": "00:00"},
+            {"name": "Push-Up", "muscle": "Upper Body", "sets": "3", "reps": "15", "restTime": "00:00"},
+            {"name": "Plank", "muscle": "Core", "sets": "3", "reps": "30", "restTime": "00:00"},
+            {"name": "Mountain Climbers", "muscle": "Full Body", "sets": "3", "reps": "30", "restTime": "00:00"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strength Training for Beginners",
+      "goal": "Strength",
+      "level": "Beginner",
+      "muscle": "Full Body",
+      "equipment": "Dumbbell",
+      "days": 3,
+      "description": "Strength training for beginners is designed to help users improve strength using dumbbells and full-body exercises.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Ff9b8a1c54404bcfe%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Day 1",
+          "exercises": [
+            {"name": "Dumbbell Bench Press", "muscle": "Chest", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Row", "muscle": "Back", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Squat", "muscle": "Legs", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Deadlift", "muscle": "Back", "sets": "3", "reps": "10", "restTime": "00:00"},
+            {"name": "Dumbbell Curl", "muscle": "Biceps", "sets": "3", "reps": "10", "restTime": "00:00"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cardio Kickboxing Workout Plan",
+      "goal": "Cardio",
+      "level": "Intermediate",
+      "muscle": "Cardio",
+      "equipment": "None",
+      "days": 4,
+      "description": "This cardio workout routine is based on kickboxing movements to increase heart rate and burn calories.",
+      "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F7f89049be9c9d055%2F1.jpg&w=3840&q=75",
+      "planDetails": [
+        {
+          "name": "Day 1",
+          "exercises": [
+            {"name": "Jumping Jacks", "muscle": "Full Body", "sets": "3", "reps": "30", "restTime": "00:00"},
+            {"name": "Boxer Shuffle", "muscle": "Cardio", "sets": "3", "reps": "30", "restTime": "00:00"},
+            {"name": "Punches", "muscle": "Upper Body", "sets": "3", "reps": "30", "restTime": "00:00"},
+            {"name": "Roundhouse Kicks", "muscle": "Lower Body", "sets": "3", "reps": "30", "restTime": "00:00"}
+          ]
+        }
+      ]
+    },
+    {
+        "name": "28-Day Bulking (Basic Gym Equipment)",
+        "goal": "Bulking",
+        "level": "Beginner",
+        "muscle": "Back",
+        "equipment": "Dumbbell",
+        "days": 28,
+        "description": "The 28-Day Bulking (Basic Gym Equipment) routine by JefitTeam is a 28 day workout plan. It is a beginner level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F41fa378192c83686%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Legs & Core",
+            "exercises": []
+          }
+        ]
+      },
+      {
+        "name": "Jefit Intermediate Routine",
+        "goal": "Maintaining",
+        "level": "Intermediate",
+        "muscle": "Back",
+        "equipment": "Machine strength",
+        "days": 4,
+        "description": "The Jefit Intermediate Routine routine by JefitTeam is a 4 day workout plan. It is an intermediate level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F2bd29320b5764f92%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Chest and Triceps",
+            "exercises": [
+              {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,8,8,8", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Dumbbell Bench Press", "muscle": "Chest", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench Press", "muscle": "Chest", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Dumbbell Fly", "muscle": "Chest", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Barbell Bench Press (Close Grip)", "muscle": "Triceps", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Barbell Tricep Extension", "muscle": "Triceps", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Dumbbell Tricep Extension", "muscle": "Triceps", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Cable Tricep Pushdown (V-Bar)", "muscle": "Triceps", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Treadmill Running", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "05:00"},
+              {"name": "Walking", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "10:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "No Equipment At Home Workout",
+        "goal": "Maintaining",
+        "level": "Beginner",
+        "muscle": "Upper legs",
+        "equipment": "Body",
+        "days": 3,
+        "description": "The No Equipment At Home Workout routine by JefitTeam is a 3 day workout plan. It is a beginner level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F0aad942914c52ca6%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Cooldown",
+            "exercises": [
+              {"name": "Cobra", "muscle": "Back", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Downward Facing Dog", "muscle": "Abs", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Iron Cross Stretch", "muscle": "Glutes", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Knee to Chest (Supine)", "muscle": "Glutes", "sets": "3", "reps": "8", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jump Into Summer",
+        "goal": "Cutting",
+        "level": "Advanced",
+        "muscle": "Abs",
+        "equipment": "Machine strength",
+        "days": 5,
+        "description": "The Jump Into Summer routine by JefitTeam is a 5 day workout plan. It is an advanced level plan to achieve cutting fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F9e262c50a26dc1e5%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Upper Body, Abs and Cardio",
+            "exercises": [
+              {"name": "Dumbbell Bench Press", "muscle": "Chest", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench Press", "muscle": "Chest", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Cable Seated Row", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm Row", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Tricep Extension", "muscle": "Triceps", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Cable Shoulder Extension", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell Curl", "muscle": "Biceps", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Alternating Bicep Curl", "muscle": "Biceps", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell Shrug", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell Shoulder Press", "muscle": "Shoulders", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Air Bike", "muscle": "Abs", "sets": "2", "reps": "15", "restTime": "00:00"},
+              {"name": "Leg Raise", "muscle": "Abs", "sets": "2", "reps": "15", "restTime": "00:00"},
+              {"name": "Treadmill Running", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "10:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Full Body Home Workout: Dumbbell Only",
+        "goal": "Maintaining",
+        "level": "Beginner",
+        "muscle": "Back",
+        "equipment": "Dumbbell",
+        "days": 3,
+        "description": "The Full Body Home Workout: Dumbbell Only routine by JefitTeam is a 7 day workout plan. It is a beginner level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fe064a74b7a254fd6%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Day 1",
+            "exercises": [
+              {"name": "Dumbbell Stiff-Leg DeadliftBack", "muscle": "Back", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell LungeUpper Legs", "muscle": "Upper Legs", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm RowBack", "muscle": "Back", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell Alternating Bicep CurlBiceps", "muscle": "Biceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell Incline CurlBiceps", "muscle": "Biceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell Alternating Tricep KickbackTriceps", "muscle": "Triceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell Tricep ExtensionTriceps", "muscle": "Triceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Dumbbell Seated Shoulder PressShoulders", "muscle": "Shoulders", "sets": "3", "reps": "10", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Reddit Metallicadpa's Beginner PPL",
+        "goal": "Maintaining",
+        "level": "Beginner",
+        "muscle": "Back",
+        "equipment": "Machine strength",
+        "days": 5,
+        "description": "The Reddit Metallicadpa's Beginner PPL routine by wainsw1 is a 6 day workout plan. It is a beginner level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fb0310587c001ea3b%2Fmale_maintaining.png&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Pull - Day 1",
+            "exercises": [
+              {"name": "Barbell DeadliftBack", "muscle": "Back", "sets": "1", "reps": "", "restTime": "00:00"},
+              {"name": "Pull-UpBack", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Cable Seated RowBack", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Cable Rope Face PullBack", "muscle": "Back", "sets": "5", "reps": "20", "restTime": "00:00"},
+              {"name": "Dumbbell Hammer Curl Forearms", "muscle": "Forearms", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Seated Bicep CurlBiceps", "muscle": "Biceps", "sets": "4", "reps": "12", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Machine-Only Beginner Workout",
+        "goal": "Maintaining",
+        "level": "Beginner",
+        "muscle": "Back",
+        "equipment": "Machine strength",
+        "days": 3,
+        "description": "The Machine-Only Beginner Workout routine by JefitTeam is a 3 day workout plan. It is a beginner level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fa6adf4d059601e1b%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Workout A",
+            "exercises": [
+              {"name": "Machine Leg PressUpper Legs", "muscle": "Upper Legs", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Calf Press On Leg PressLower Legs", "muscle": "Lower Legs", "sets": "3", "reps": "14", "restTime": "00:00"},
+              {"name": "Smith Machine Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Machine Shoulder PressShoulders", "muscle": "Shoulders", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Cable Seated RowBack", "muscle": "Back", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Machine Tricep ExtensionTriceps", "muscle": "Triceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Machine Ab CrunchAbs", "muscle": "Abs", "sets": "3", "reps": "12", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jefit Beginner Routine",
+        "goal": "Bulking",
+        "level": "Beginner",
+        "muscle": "Back",
+        "equipment": "Barbell",
+        "days": 4,
+        "description": "The Jefit Beginner Routine routine by JefitTeam is a 7 day workout plan. It is a beginner level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F909a691beea2300f%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Chest and Trip",
+            "exercises": [
+              {"name": "Barbell Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "DipTriceps", "muscle": "Triceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Machine FlyChest", "muscle": "Chest", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Barbell Tricep Extension (Supine)Triceps", "muscle": "Triceps", "sets": "3", "reps": "10", "restTime": "00:00"},
+              {"name": "Cable Tricep Pushdown (Rope)Triceps", "muscle": "Triceps", "sets": "3", "reps": "10", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Get Ripped",
+        "goal": "Maintaining",
+        "level": "Advanced",
+        "muscle": "Back",
+        "equipment": "Barbell",
+        "days": 5,
+        "description": "The Get Ripped routine by JefitTeam is a 5 day workout plan. It is an advanced level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fb468a2999f3c3bfa%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Day 1",
+            "exercises": [
+              {"name": "Barbell DeadliftBack", "muscle": "Back", "sets": "4", "reps": "6", "restTime": "00:00"},
+              {"name": "Barbell Bent Over RowBack", "muscle": "Back", "sets": "4", "reps": "6", "restTime": "00:00"},
+              {"name": "Barbell PulloversBack", "muscle": "Back", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Seated RowBack", "muscle": "Back", "sets": "4", "reps": "10", "restTime": "00:00"},
+              {"name": "Barbell CurlBiceps", "muscle": "Biceps", "sets": "3", "reps": "12", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "28-Day Cutting (Basic Gym Equipment)",
+        "goal": "Cutting",
+        "level": "Beginner",
+        "muscle": "Abs",
+        "equipment": "Dumbbell",
+        "days": 28,
+        "description": "The 28-Day Cutting (Basic Gym Equipment) routine by JefitTeam is a 28 day workout plan. It is a beginner level plan to achieve cutting fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fda666b21d5bcbbc4%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Legs, Back, Biceps & Core",
+            "exercises": []
+          }
+        ]
+      },
+      {
+        "name": "28-Day Bulking (Basic Gym Equipment)",
+        "goal": "Bulking",
+        "level": "Beginner",
+        "muscle": "Back",
+        "equipment": "Dumbbell",
+        "days": 28,
+        "description": "The 28-Day Bulking (Basic Gym Equipment) routine by JefitTeam is a 28 day workout plan. It is a beginner level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F41fa378192c83686%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Legs & Core",
+            "exercises": []
+          }
+        ]
+      },
+      {
+        "name": "Jefit Intermediate Routine",
+        "goal": "Maintaining",
+        "level": "Intermediate",
+        "muscle": "Back",
+        "equipment": "Machine strength",
+        "days": 4,
+        "description": "The Jefit Intermediate Routine routine by JefitTeam is a 4 day workout plan. It is a intermediate level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F2bd29320b5764f92%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Chest and Triceps",
+            "exercises": [
+              {"name": "Barbell Bench PressChest", "muscle": "Chest", "sets": "4", "reps": "12,8,8,8", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Dumbbell Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Dumbbell FlyChest", "muscle": "Chest", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Barbell Bench Press (Close Grip)Triceps", "muscle": "Triceps", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Barbell Tricep ExtensionTriceps", "muscle": "Triceps", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Dumbbell Tricep ExtensionTriceps", "muscle": "Triceps", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Cable Tricep Pushdown (V-Bar)Triceps", "muscle": "Triceps", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Treadmill RunningCardio", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "05:00"},
+              {"name": "WalkingCardio", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "10:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "No Equipment At Home Workout",
+        "goal": "Maintaining",
+        "level": "Beginner",
+        "muscle": "Upper legs",
+        "equipment": "Body",
+        "days": 3,
+        "description": "The No Equipment At Home Workout routine by JefitTeam is a 3 day workout plan. It is a beginner level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F0aad942914c52ca6%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Cooldown",
+            "exercises": [
+              {"name": "CobraBack", "muscle": "Back", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Downward Facing DogAbs", "muscle": "Abs", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Iron Cross StretchGlutes", "muscle": "Glutes", "sets": "3", "reps": "8", "restTime": "00:00"},
+              {"name": "Knee to Chest (Supine)Glutes", "muscle": "Glutes", "sets": "3", "reps": "8", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jump Into Summer",
+        "goal": "Cutting",
+        "level": "Advanced",
+        "muscle": "Abs",
+        "equipment": "Machine strength",
+        "days": 5,
+        "description": "The Jump Into Summer routine by JefitTeam is a 5 day workout plan. It is an advanced level plan to achieve cutting fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F9e262c50a26dc1e5%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Upper Body, Abs and Cardio",
+            "exercises": [
+              {"name": "Dumbbell Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench PressChest", "muscle": "Chest", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Cable Seated RowBack", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm RowBack", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Tricep ExtensionTriceps", "muscle": "Triceps", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Cable Shoulder ExtensionBack", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell CurlBiceps", "muscle": "Biceps", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Alternating Bicep CurlBiceps", "muscle": "Biceps", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell ShrugBack", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell Shoulder PressShoulders", "muscle": "Shoulders", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Air BikeAbs", "muscle": "Abs", "sets": "2", "reps": "15", "restTime": "00:00"},
+              {"name": "Leg RaiseAbs", "muscle": "Abs", "sets": "2", "reps": "15", "restTime": "00:00"},
+              {"name": "Treadmill RunningCardio", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "10:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "6 Day Bulking Split",
+        "goal": "Bulking",
+        "level": "Advanced",
+        "muscle": "Back",
+        "equipment": "Barbell",
+        "days": 6,
+        "description": "The 6 Day Bulking Split routine by JefitTeam is a 6 day workout plan. It is an advanced level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F2ba297e90d4ad6d0%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Chest, Back and Abs",
+            "exercises": [
+              {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Pullover", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Deadlift", "muscle": "Back", "sets": "2", "reps": "8,6", "restTime": "00:00"},
+              {"name": "Barbell Bent-Over Row", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm Row", "muscle": "Back", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Pull-Up", "muscle": "Back", "sets": "2", "reps": "8", "restTime": "00:00"},
+              {"name": "Crunch", "muscle": "Abs", "sets": "2", "reps": "25", "restTime": "00:00"},
+              {"name": "Bench Crunch", "muscle": "Abs", "sets": "2", "reps": "25", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Putting On Lean Muscle",
+        "goal": "Bulking",
+        "level": "Advanced",
+        "muscle": "Back",
+        "equipment": "Machine strength",
+        "days": 3,
+        "description": "The Putting On Lean Muscle routine by JefitTeam is a 3 day workout plan. It is an advanced level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fe0e9c842c7fbaa69%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Back, Biceps and Abs",
+            "exercises": [
+              {"name": "Cable Lat Pulldown (Wide Grip)", "muscle": "Back", "sets": "4", "reps": "16,14,12,10", "restTime": "00:00"},
+              {"name": "Dumbbell Lateral Raise", "muscle": "Shoulders", "sets": "4", "reps": "14", "restTime": "00:00"},
+              {"name": "Cable Seated Row", "muscle": "Back", "sets": "4", "reps": "16,14,12,10", "restTime": "00:00"},
+              {"name": "Elevated Push-Up", "muscle": "Chest", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm Row", "muscle": "Back", "sets": "4", "reps": "14,12,10,8", "restTime": "00:00"},
+              {"name": "Dumbbell Seated Shoulder Press", "muscle": "Shoulders", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell Bent-Over Row", "muscle": "Back", "sets": "4", "reps": "14", "restTime": "00:00"},
+              {"name": "Push-Up", "muscle": "Chest", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Back Hyperextension", "muscle": "Back", "sets": "3", "reps": "14", "restTime": "00:00"},
+              {"name": "Barbell Curl", "muscle": "Biceps", "sets": "3", "reps": "16,12,8", "restTime": "00:00"},
+              {"name": "Bench Dip", "muscle": "Triceps", "sets": "2", "reps": "14", "restTime": "00:00"},
+              {"name": "Barbell Preacher Curl", "muscle": "Biceps", "sets": "3", "reps": "14,12,10", "restTime": "00:00"},
+              {"name": "Cable Shoulder Extension", "muscle": "Back", "sets": "2", "reps": "14", "restTime": "00:00"},
+              {"name": "Cable Bicep Curl (Close Grip)", "muscle": "Biceps", "sets": "3", "reps": "14,12,10", "restTime": "00:00"},
+              {"name": "Dip", "muscle": "Triceps", "sets": "2", "reps": "12", "restTime": "00:00"},
+              {"name": "Parallel Bar Hip Raise", "muscle": "Abs", "sets": "2", "reps": "16", "restTime": "00:00"},
+              {"name": "Reverse Crunch", "muscle": "Abs", "sets": "2", "reps": "16", "restTime": "00:00"},
+              {"name": "Cable Kneeling Crunch", "muscle": "Abs", "sets": "2", "reps": "16", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Female Beginner Routine",
+        "goal": "Cutting",
+        "level": "Beginner",
+        "muscle": "Upper legs",
+        "equipment": "Machine strength",
+        "days": 4,
+        "description": "The Female Beginner Routine routine by JefitTeam is a 7 day workout plan. It is a beginner level plan to achieve cutting fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F74338dd47b0dd916%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Cardio and Toning",
+            "exercises": [
+              {"name": "Walking", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "00:00"},
+              {"name": "Treadmill Running", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "00:00"},
+              {"name": "Walking", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "00:00"},
+              {"name": "Machine Seated Row", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Preacher Curl Machine", "muscle": "Biceps", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Cable Shoulder Extension", "muscle": "Back", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Machine Tricep Extension", "muscle": "Triceps", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell One-Arm Front Raise", "muscle": "Shoulders", "sets": "3", "reps": "12", "restTime": "00:00"},
+              {"name": "Walking", "muscle": "Cardio", "sets": "1", "reps": "0", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bigger Arms",
+        "goal": "Bulking",
+        "level": "Intermediate",
+        "muscle": "Triceps",
+        "equipment": "Dumbbell",
+        "days": 2,
+        "description": "The Bigger Arms routine by JefitTeam is a 2 day workout plan. It is an intermediate level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fa7ce943b6727125c%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Weeks 1 - 5",
+            "exercises": [
+              {"name": "Barbell Curl", "muscle": "Biceps", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Curl", "muscle": "Biceps", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Hammer Curl", "muscle": "Forearms", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Alternating Bicep Curl", "muscle": "Biceps", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Dumbbell Concentration Curl", "muscle": "Biceps", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Barbell Bench Press (Close Grip)", "muscle": "Triceps", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Cable Tricep Pushdown (Rope)", "muscle": "Triceps", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "EZ Bar Tricep Extension", "muscle": "Triceps", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "EZ Bar French Press", "muscle": "Triceps", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Weighted Tricep Dip", "muscle": "Triceps", "sets": "4", "reps": "10", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Building A Bigger Chest",
+        "goal": "Bulking",
+        "level": "Intermediate",
+        "muscle": "Chest",
+        "equipment": "Barbell",
+        "days": 2,
+        "description": "The Building A Bigger Chest routine by JefitTeam is a 2 day workout plan. It is an intermediate level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F9f37b4ca6839b8a7%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Weeks 1 - 3",
+            "exercises": [
+              {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Barbell Decline Bench Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Dumbbell Decline Press", "muscle": "Chest", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"},
+              {"name": "Weighted Tricep Dip", "muscle": "Triceps", "sets": "4", "reps": "12,10,8,6", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "5 Day Compound Exercise Only Workout",
+        "goal": "Bulking",
+        "level": "Intermediate",
+        "muscle": "Back",
+        "equipment": "Barbell",
+        "days": 5,
+        "description": "The 5 Day Compound Exercise Only Workout routine by JefitTeam is a 7 day workout plan. It is an intermediate level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fe0e9c842c7fbaa69%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Chest",
+            "exercises": [
+              {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "10", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "10", "restTime": "00:00"},
+              {"name": "Barbell Decline Bench Press", "muscle": "Chest", "sets": "4", "reps": "10", "restTime": "00:00"},
+              {"name": "Machine Inner Chest Press", "muscle": "Chest", "sets": "4", "reps": "12", "restTime": "00:00"},
+              {"name": "Weighted Tricep Dip", "muscle": "Triceps", "sets": "4", "reps": "12", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "High Volume Training",
+        "goal": "Bulking",
+        "level": "Advanced",
+        "muscle": "Back",
+        "equipment": "Barbell",
+        "days": 5,
+        "description": "The High Volume Training routine by JefitTeam is a 5 day workout plan. It is an advanced level plan to achieve bulking fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F1d5050063755942d%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Chest",
+            "exercises": [
+              {"name": "Barbell Bench Press", "muscle": "Chest", "sets": "4", "reps": "20", "restTime": "00:00"},
+              {"name": "Barbell Incline Bench Press", "muscle": "Chest", "sets": "4", "reps": "20", "restTime": "00:00"},
+              {"name": "Cable Cross-Over", "muscle": "Chest", "sets": "4", "reps": "16", "restTime": "00:00"},
+              {"name": "Cable Lower Chest Raise", "muscle": "Chest", "sets": "4", "reps": "12", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Train Like A Warrior",
+        "goal": "Maintaining",
+        "level": "Intermediate",
+        "muscle": "Back",
+        "equipment": "Barbell",
+        "days": 6,
+        "description": "The Train Like A Warrior routine by JefitTeam is a 7 day workout plan. It is an intermediate level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F883032ef0a84eac0%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Legs",
+            "exercises": [
+              {"name": "Barbell Squat", "muscle": "Upper Legs", "sets": "4", "reps": "14,12,10,8", "restTime": "00:00"},
+              {"name": "Barbell Deadlift", "muscle": "Back", "sets": "4", "reps": "14,12,10,8", "restTime": "00:00"},
+              {"name": "Barbell Lunge", "muscle": "Upper Legs", "sets": "4", "reps": "14", "restTime": "00:00"},
+              {"name": "Machine Leg Extension", "muscle": "Upper Legs", "sets": "4", "reps": "14,12,10,8", "restTime": "00:00"},
+              {"name": "Machine Seated Leg Curl", "muscle": "Upper Legs", "sets": "4", "reps": "14,12,10,8", "restTime": "00:00"},
+              {"name": "Barbell Standing Calf Raise", "muscle": "Lower Legs", "sets": "5", "reps": "16", "restTime": "00:00"},
+              {"name": "Machine Seated Calf Raise", "muscle": "Lower Legs", "sets": "5", "reps": "16", "restTime": "00:00"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ivysaurs beginner 4-4-8 program.",
+        "goal": "Maintaining",
+        "level": "Beginner",
+        "muscle": "Back",
+        "equipment": "Barbell",
+        "days": 2,
+        "description": "The Ivysaurs beginner 4-4-8 program routine by NoizeUK is a 6 day workout plan. It is a beginner level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fb0310587c001ea3b%2Fmale_maintaining.png&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Week A",
+            "exercises": [
+              {
+                "name": "Barbell Bench PressChest",
+                "muscle": "Chest",
+                "sets": "4",
+                "reps": "4",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Barbell SquatUpper Legs",
+                "muscle": "Upper Legs",
+                "sets": "4",
+                "reps": "8",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Barbell Push PressShoulders",
+                "muscle": "Shoulders",
+                "sets": "4",
+                "reps": "8",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Chin-UpBack",
+                "muscle": "Back",
+                "sets": "4",
+                "reps": "8",
+                "restTime": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Build Your Spartan Body",
+        "goal": "Cutting",
+        "level": "Advanced",
+        "muscle": "Back",
+        "equipment": "Body",
+        "days": 1,
+        "description": "The Build Your Spartan Body routine by JefitTeam is a 1 day workout plan. It is an advanced level plan to achieve cutting fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2F4d4f5c1ed49b3700%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Workout",
+            "exercises": [
+              {
+                "name": "Pull-UpBack",
+                "muscle": "Back",
+                "sets": "1",
+                "reps": "18",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Barbell DeadliftBack",
+                "muscle": "Back",
+                "sets": "1",
+                "reps": "20",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Push-UpChest",
+                "muscle": "Chest",
+                "sets": "1",
+                "reps": "25",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Box Jump Multiple ResponseUpper Legs",
+                "muscle": "Upper Legs",
+                "sets": "1",
+                "reps": "15",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Barbell Clean and JerkShoulders",
+                "muscle": "Shoulders",
+                "sets": "1",
+                "reps": "12",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Abdominal PendulumAbs",
+                "muscle": "Abs",
+                "sets": "1",
+                "reps": "20",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Air BikeAbs",
+                "muscle": "Abs",
+                "sets": "1",
+                "reps": "25",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Pull-UpBack",
+                "muscle": "Back",
+                "sets": "1",
+                "reps": "12",
+                "restTime": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dumbbell Circuit Training",
+        "goal": "Maintaining",
+        "level": "Advanced",
+        "muscle": "Upper legs",
+        "equipment": "Dumbbell",
+        "days": 7,
+        "description": "The Dumbbell Circuit Training routine by JefitTeam is a 7 day workout plan. It is an advanced level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fe953f8e6185c7bc7%2F1.jpg&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Training",
+            "exercises": [
+              {
+                "name": "Dumbbell SquatUpper Legs",
+                "muscle": "Upper Legs",
+                "sets": "1",
+                "reps": "14",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Dumbbell LungeUpper Legs",
+                "muscle": "Upper Legs",
+                "sets": "1",
+                "reps": "14",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Dumbbell Bent-Over RowBack",
+                "muscle": "Back",
+                "sets": "1",
+                "reps": "12",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Dumbbell Deep Push-UpChest",
+                "muscle": "Chest",
+                "sets": "1",
+                "reps": "12",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Dumbbell Shoulder PressShoulders",
+                "muscle": "Shoulders",
+                "sets": "1",
+                "reps": "12",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Dumbbell Alternating Bicep CurlBiceps",
+                "muscle": "Biceps",
+                "sets": "1",
+                "reps": "12",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Dumbbell Tricep ExtensionTriceps",
+                "muscle": "Triceps",
+                "sets": "1",
+                "reps": "12",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Dumbbell Side BendAbs",
+                "muscle": "Abs",
+                "sets": "1",
+                "reps": "15",
+                "restTime": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Planet Fitness Full Body Routine",
+        "goal": "Maintaining",
+        "level": "Beginner",
+        "muscle": "Upper legs",
+        "equipment": "Machine strength",
+        "days": 2,
+        "description": "The Planet Fitness Full Body Routine routine by ajonrichards is a 1 day workout plan. It is a beginner level plan to achieve general fitness goals.",
+        "image": "https://www.jefit.com/_next/image?url=https%3A%2F%2Fcdn.jefit.com%2Fuc%2Ffile%2Fb0310587c001ea3b%2Fmale_maintaining.png&w=3840&q=75",
+        "planDetails": [
+          {
+            "name": "Circuit Training",
+            "exercises": [
+              {
+                "name": "Machine Leg PressUpper Legs",
+                "muscle": "Upper Legs",
+                "sets": "3",
+                "reps": "10",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Machine Leg ExtensionUpper Legs",
+                "muscle": "Upper Legs",
+                "sets": "3",
+                "reps": "10",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Machine Seated Leg CurlUpper Legs",
+                "muscle": "Upper Legs",
+                "sets": "3",
+                "reps": "10",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Machine Bench PressChest",
+                "muscle": "Chest",
+                "sets": "3",
+                "reps": "10",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Dumbbell FlyChest",
+                "muscle": "Chest",
+                "sets": "3",
+                "reps": "10",
+                "restTime": "00:00"
+              },
+              {
+                "name": "Cable Lat Pulldown (Wide Grip)Back",
+                "muscle": "Back",
+                "sets": "3",
+                "reps": "10",
+                "restTime": "00:00"
+              }
+            ]
+          }
+        ]
+      }
+]
+  

@@ -9,10 +9,16 @@ const createExercise = async (data) => {
             return { error: "Exercise already exists", status: 400 };
         }
         // Get length of exercises collection
-        const exercisesCollection = await getDocs(collection(firestoreDb, 'exercises'));
-        console.log(exercisesCollection.size);
+        const generateId = (length) => {
+            const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+            let result = '';
+            for (let i = 0; i < length; i++) {
+                result += chars.charAt(Math.floor(Math.random() * chars.length));
+            }
+            return result;
+        };
         // Create a new user ID
-        const exerciseId = exercisesCollection.size + 1;
+        const exerciseId = generateId(20);
         // Store additional user data in Firestore
         await setDoc(doc(firestoreDb, 'exercises', exerciseId.toString()), {
         difficulty, 

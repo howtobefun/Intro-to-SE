@@ -20,5 +20,5 @@ async function readExercisesAndPushOnDatabase(filePath) {
 }
 
 // Usage: Call the function with the path to your JSON file
-readExercisesAndPushOnDatabase('plansFile.json');
+readExercisesAndPushOnDatabase('jefit_exercises_updated.json');
 

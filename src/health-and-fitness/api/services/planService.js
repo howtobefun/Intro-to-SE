@@ -60,7 +60,7 @@ const createPlan = async (data) => {
                     console.log("current exercise name:", exercise.name);
                     const exerciseData = await getExercise(exercise.name); // Call your getExercise function
                     console.log("Fetched exercise id:", exerciseData.id);
-                    exercise.id = exerciseData.id || '100'; // Assign ID, use 'default id - 100' if not found
+                    exercise.id = exerciseData.id || '0vIOLAq8e7UGYSYFJvkS'; // Assign ID, use 'Barbell Stiff-Leg Deadlift' if not found
                     return exercise;
                 })
             );
